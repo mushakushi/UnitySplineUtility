@@ -1,0 +1,16 @@
+{
+	"name": "com.mushakushi.PLACEHOLDER",
+  	"version": "1.0.0",
+  	"displayName": "PLACEHOLDER",
+  	"description": "PLACEHOLDER",
+  	"unity": "2022.3",
+  	"dependencies": {
+    		"com.PLACEHOLDER": "1.0.0",
+  	},
+ 	"keywords": [ "PLACEHOLDER" ],
+  	"author": {
+   		"name": "Mushakushi",
+    		"email": "info@mushakushi.com",
+    		"url": "https://www.mushakushi.com"
+  	}
+}
