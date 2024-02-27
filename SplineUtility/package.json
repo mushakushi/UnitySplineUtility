@@ -1,0 +1,16 @@
+{
+	"name": "com.mushakushi.splineutility",
+  	"version": "1.0.0",
+  	"displayName": "Spline Utility",
+  	"description": "Utility Classes for the Unity Splines Package",
+  	"unity": "2022.3",
+  	"dependencies": {
+    		"com.unity.splines": "1.0.0"
+  	},
+ 	"keywords": [ "Splines", "Utility" ],
+  	"author": {
+   		"name": "Mushakushi",
+    		"email": "info@mushakushi.com",
+    		"url": "https://www.mushakushi.com"
+  	}
+}
